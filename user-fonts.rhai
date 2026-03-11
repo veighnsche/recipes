@@ -1,15 +1,15 @@
 let ctx = #{
     fonts_root: "/home/vince/.local/share/fonts/user-fonts",
     install_note: "Installed Iosevka 34.2.1, Inter 4.1, and San Francisco Pro 8bfea09aa6f1139479f80358b2e1e5c6dc991a58, plus selected Nerd Fonts 3.4.0 into /home/vince/.local/share/fonts/user-fonts.",
-    inter_archive: "/tmp/.tmpDARcie/Inter-4.1.zip",
+    inter_archive: "/tmp/.tmpOsJG2Q/Inter-4.1.zip",
     inter_dir: "/home/vince/.local/share/fonts/user-fonts/inter",
     inter_version: "4.1",
-    iosevka_archive: "/tmp/.tmpDARcie/PkgTTC-Iosevka-34.2.1.zip",
+    iosevka_archive: "/tmp/.tmpOsJG2Q/PkgTTC-Iosevka-34.2.1.zip",
     iosevka_dir: "/home/vince/.local/share/fonts/user-fonts/iosevka",
     iosevka_version: "34.2.1",
     name: "user-fonts",
     nerd_fonts_version: "3.4.0",
-    sf_pro_archive: "/tmp/.tmpDARcie/San-Francisco-Pro-Fonts-8bfea09aa6f1139479f80358b2e1e5c6dc991a58.zip",
+    sf_pro_archive: "/tmp/.tmpOsJG2Q/San-Francisco-Pro-Fonts-8bfea09aa6f1139479f80358b2e1e5c6dc991a58.zip",
     sf_pro_commit: "8bfea09aa6f1139479f80358b2e1e5c6dc991a58",
     sf_pro_dir: "/home/vince/.local/share/fonts/user-fonts/san-francisco-pro",
 };
